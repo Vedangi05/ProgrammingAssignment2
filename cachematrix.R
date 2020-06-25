@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
         
-        makeVector <- function(x = numeric()) {
+        
         inv <- NULL
         set <- function(y) {
                 x <<- y
